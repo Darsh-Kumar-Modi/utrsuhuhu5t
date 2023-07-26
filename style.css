@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+    }
+    .heading{
+    font-size: 23px;
+    width:100%;
+    margin:0px;
+    }
+    #objs,#start,#status{
+        font-size: 18px;
+    }
+    .footer{
+        font-size: 20px;
+        position: fixed ;
+        bottom:0;
+        text-align: center;
+        width:100%;
+        background-color: rgb(255, 145, 0);
+        line-height: 2;
+    }
+    canvas{
+        border:2px black groove ;
+        border-radius: 10px;
+        margin-top: 130px;
+        box-shadow: 5px 5px 5px rgb(50, 48, 48);
+    }
